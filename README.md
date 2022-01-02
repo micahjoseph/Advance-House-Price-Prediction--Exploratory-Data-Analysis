@@ -1,5 +1,5 @@
 # Advance-House-Price-Prediction--Exploratory-Data-Analysis
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
+
 
 
 The main aim of this project is to predict the house price based on various features 
@@ -7,7 +7,7 @@ The main aim of this project is to predict the house price based on various feat
 DATASET:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
+Predict sales prices and practice feature engineering.
 
 
 **Predict sales prices and practice feature engineering, RFs, and gradient boosting**
